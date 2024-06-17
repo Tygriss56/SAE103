@@ -1,0 +1,100 @@
+@font-face {
+    font-family: 'chasse-fixe';
+    src: url('polices/unispace.ttf');
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 4em;
+}
+
+a, a > li{
+    text-decoration: none;
+    color: rgb(210, 191, 255);
+}
+
+header {
+    margin-bottom: 4em  ;
+}
+header h1 {
+    color: black;
+    font-size: 8em;
+}
+
+h1 {
+    color: white;
+    font-size: 5em;
+    text-align: center;
+}
+
+h2{
+    font-size: 3em;
+}
+
+h3{
+    font-size: 2.5em;
+    margin-left: 2em;
+}
+
+h4{
+    font-size: 2em;
+    margin-left: 4em;
+}
+
+header img {    
+    position: relative; 
+    left: 10em;
+}
+
+section li {
+    margin-left: 2em;
+    font-size: 4em;
+
+}
+
+p, li, table{
+    color: black;
+    font-size: 1em;
+}
+
+
+
+section, main {
+    background-color: rgb(105, 105, 255);
+    padding : 1em;
+    margin: 1em;
+    border : 2px solid black;
+    border-radius: 5px;
+
+}
+
+pre {
+    background-color: rgb(150, 150, 194);
+    padding: 1em;
+    margin: 1em;
+    border: 1px solid black;
+    border-radius: 5px;
+    color: rgb(44, 44, 44);
+}
+
+table {
+    border-collapse: collapse;
+    width: 20em;
+    margin: 1em;
+
+}
+
+table td, table th{
+    border: 1px solid black;
+    background-color: white;
+    
+}
+
+hr {
+    margin: 1.5 em;
+}
+
+.cligne{
+    font-family: 'chasse-fixe';
+    font-size: 0.75em;
+}

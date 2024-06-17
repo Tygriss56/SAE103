@@ -1,0 +1,16 @@
+
+SAE 1.03 Installation d'un poste pour le développement
+
+Tâches et pourcentage de travail de chaque personne dans l'équipe:
+
+
+    - Joseph et Valentin : Les 3 fichiers C ( environ 50% chacun, en produisant les codes sources et les commentaires )
+
+    - Milio : La documentation technique et la documentation utilisateur en HTML ( 100% du HTML)
+
+    - Dylan : Le Markdown ( 100% du markdown )
+
+SUR LES 2 PREMIERES SEMAINES :
+
+
+    - Nous devnons être entre 20 et 40% pour tous les membres de l'équipe sur le projet global
